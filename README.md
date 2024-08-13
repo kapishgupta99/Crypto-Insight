@@ -1,4 +1,4 @@
-# Crypto Sleuth React App
+# Crypto Insight React App
 
 Created a cryptocurrency web app using create-react-app framework that enables real-time tracking of 100's of cryptos in a rank-wise order by their market capitalization.
 <br>
